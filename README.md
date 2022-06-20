@@ -215,3 +215,4 @@ $ sudo systemctl restart nginx
 ```
 Va nihoyat serverni sozlab boldik!!! Siz brauzeringizda server IP si yo'ki domenini kiritib buni tekshirib ko'rishingiz mumkin, ha aytkancha serveringiz uchun [SSL sertifikat olish](https://www.digitalocean.com/community/tutorials/how-to-secure-nginx-with-let-s-encrypt-on-ubuntu-20-04)ni unitmang
 
+Ba'zi holatlarda 502 xatolikini olishingiz mumkin: https://stackoverflow.com/questions/25774999/nginx-stat-failed-13-permission-denied
