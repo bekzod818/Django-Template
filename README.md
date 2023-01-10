@@ -36,7 +36,8 @@ Ushbu qollanmani root foydalanuvchi sifatida bajarish tavsiya etilmaydi, Foydala
 ### Kerakli paketlarni o'rnatish
 ```sh
 $ sudo apt update
-$ sudo apt install -y python-pip python-dev libpq-dev vim git htop postgresql postgresql-contrib nginx redis-server
+$ sudo apt upgrade
+$ sudo apt install -y python3-pip python-dev libpq-dev vim git htop postgresql postgresql-contrib nginx redis-server
 ```
 ### PostgreSQL ni sozlash
 Oldin ma'lumotlar bazasini va shu ma'lumotlar bazasidan foydalanuvchi yaratib olamiz.
