@@ -23,4 +23,4 @@ RUN pip install -r requirements.txt
 
 USER dj_template
 
-CMD ["gunicorn", "-b", "0.0.0.0:8000", "config.wsgi:application"]
+CMD ["gunicorn", "-b", "0.0.0.0:8001", "config.wsgi:application"]

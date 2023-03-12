@@ -6,6 +6,8 @@ services:
     container_name: dj_postgres
     volumes:
       - ~/.pg/pg_data/dj:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
     env_file:
       - .env
   dj_project:
