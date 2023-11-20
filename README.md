@@ -220,3 +220,5 @@ https://stackoverflow.com/questions/41951792/gunicorn-and-django-error-permissio
 
 
 Ba'zi holatlarda 502 xatolikini olishingiz mumkin: https://stackoverflow.com/questions/25774999/nginx-stat-failed-13-permission-denied
+
+NGINX faylni o'zgartirish kerak rootga https://stackoverflow.com/questions/70111791/nginx-13-permission-denied-while-connecting-to-upstream
